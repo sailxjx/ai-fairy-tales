@@ -25,6 +25,7 @@ After I become more proficient, I expect to generate these stories faster.
 - [Dark Riding Hood](Dark-Riding-Hood/readme.md)
 - [Rise of Darth Vader](Rise-of-Darth-Vader/readme.md)
 - [The Adventure of Baby Shark](The-Adventure-of-Baby-Shark/readme.md)
+- [Tortoise, Rabbit and Mario](Tortoise-Rabbit-and-Mario/readme.md)
 - To be continue
 
 ## Sponsor me
